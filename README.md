@@ -1,4 +1,4 @@
-board
+Board
 =====
 
-A table top board game simulator for windows tablets and table PCs
+Simulate, and virtualize the board for all your favorite board games.  Play games with your friends remotely.
